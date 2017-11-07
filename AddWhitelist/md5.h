@@ -4,6 +4,8 @@
 #include <string>
 #include <fstream>
 
+#pragma warning(disable:4244)
+
 /* Type define */
 typedef unsigned char byte;
 typedef unsigned long ulong;
